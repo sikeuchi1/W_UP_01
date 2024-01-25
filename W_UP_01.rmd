@@ -45,6 +45,9 @@ Pushups is a quantative variable and position is a categorical variable. Therefo
 ```{r}
 boxplot(pushups~position,data=mydata)
 ```
+  
+
+
 This graph shows that skill position players can do more pushups in 2 minutes than can line players.
 
 ### Numerical Descriptive Results

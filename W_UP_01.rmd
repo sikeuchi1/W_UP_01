@@ -55,6 +55,7 @@ This graph shows that skill position players can do more pushups in 2 minutes th
 favstats(pushups~position,data=mydata)
 ```
 This table shows the average number pushups done by players in LINE positions was 17, while the mean level of pushups done by skill players was around 50. 
+
 ## Inferential Results
 
 <!--State hypothesis clearly. Make sure your discussion of the inferential test covers all the aspects that the test output produces, such as test statistic, p-value etc. Make a decision about the null hypothesis, explain the assumptions on which the selected test/procedure was based, and why the chosen procedure satisfys the assumptions and is appropriate to answer the research question!-->
@@ -67,4 +68,4 @@ Since the p-value is 0.000009421 <0.05, we fail to reject the null hypothesis.
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
-The average number of pushups done by line players is statistically different than that of skill players, thus, we reject the null hypothesis. First of all, the box plot displays a clear distinction between the Line and Skill players. In addition, the means are different by 33 pushups. Futhermore, since the p-value is less than 0.5, we can conclude that skill players can do more pushups than line position players. 
+The average number of pushups done by line players is statistically different than that of skill players, thus, we reject the null hypothesis. First of all, the box plot displays a clear distinction between the Line and Skill players. In addition, the means are different by 33 pushups. Futhermore, since the p-value is less than 0.05, we can conclude that skill players can do more pushups than line position players. 
